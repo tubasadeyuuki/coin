@@ -1,0 +1,957 @@
+{
+    "version": 3,
+    "categories": [
+        {
+            "id": "LA_PL",
+            "function": "LA",
+            "names": [
+                { "lang": "EN", "name": "Photo Layout" },
+                { "lang": "JA", "name": "写真レイアウト" },
+                { "lang": "DE", "name": "Fotolayout" },
+                { "lang": "FR", "name": "Disposition de photo" },
+                { "lang": "ES", "name": "Diseño de fotos" },
+                { "lang": "IT", "name": "Disposizione foto" },
+                { "lang": "PT", "name": "Esquema de fotografia" },
+                { "lang": "NL", "name": "Fotolay-out" },
+                { "lang": "RU", "name": "Макет фото" },
+                { "lang": "KO", "name": "사진 레이아웃" },
+                { "lang": "SC", "name": "照片布局" },
+                { "lang": "TC", "name": "相片版面配置" },
+				{ "lang": "DA","name" : "Billedlayout" },
+				{ "lang": "SV","name" : "Fotolayout" },
+				{ "lang": "EL","name" : "Διάταξη φωτογραφίας" },
+				{ "lang": "PL","name" : "Układ zdjęć" },
+				{ "lang": "FI","name" : "Valokuva-asettelu" },
+				{ "lang": "CS","name" : "Uspořádání fotografie" },
+				{ "lang": "TR","name" : "Fotoğraf Düzeni" },
+				{ "lang": "HU","name" : "Fénykép elrendezés" },
+				{ "lang": "RO","name" : "Dispunere fotografie" },
+				{ "lang": "NO","name" : "Fotooppsett" },
+				{ "lang": "AR","name" : "تخطيط صورة" },
+				{ "lang": "UK","name" : "Макет зображення" },
+				{ "lang": "HE","name" : "פריסת התמונות" },
+				{ "lang": "TH","name" : "เค้าโครงรูปภาพ" },
+				{ "lang": "MS","name" : "Bentangan Foto" },
+				{ "lang": "ID","name" : "Tata Letak Foto" }
+            ],
+            "note": "",
+            "thumbnail": "LA_PL.png",
+            "root": true,
+            "subids": [ ],
+            "newContents": false,
+            "objects": [
+                {
+                    "fileName": "LA_PL_001.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_001.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_002.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_002.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_003.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_003.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_004.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_004.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_005.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_005.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_006.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_006.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_007.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_007.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_008.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_008.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_009.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_009.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_010.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_010.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_011.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_011.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_012.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_012.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_013.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_013.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_014.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_014.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_015.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_015.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_016.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_016.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_017.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_017.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_018.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_018.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_019.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_019.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_020.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_020.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_021.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_021.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_022.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_022.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_023.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_023.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_024.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_024.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_025.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_025.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_026.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_026.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_027.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_027.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_028.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_028.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_029.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_029.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_030.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_030.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_031.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_031.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_032.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_032.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_033.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_033.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_034.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_034.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_035.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_035.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_036.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_036.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_037.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_037.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_038.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_038.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_039.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_039.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_040.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_040.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_041.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_041.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_042.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_042.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_051.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_051.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_052.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_052.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_053.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_053.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_054.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_054.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_055.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_055.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_056.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_056.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_057.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_057.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_058.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_058.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PL_059.etdx",
+                    "paperSizeIds": [ "LB", "2L", "HG", "KG", "A5", "A4", "A3", "A2", "6G", "HV", "5A", "CA", "MS", "3A", "4G", "LT", "LG", "S1", "S2" ],
+                    "thumbnail": "LA_PL_059.png",
+                    "newContents": false
+                }
+            ]
+        },
+        {
+            "id": "IN",
+            "function": "IN",
+            "names": [
+                { "lang": "EN", "name": "Thumbnail" },
+                { "lang": "JA", "name": "インデックス" },
+                { "lang": "DE", "name": "Miniaturbild" },
+                { "lang": "FR", "name": "Vignette" },
+                { "lang": "ES", "name": "Miniatura" },
+                { "lang": "IT", "name": "Miniatura" },
+                { "lang": "PT", "name": "Miniatura" },
+                { "lang": "NL", "name": "Miniatuur" },
+                { "lang": "RU", "name": "Миниатюра" },
+                { "lang": "KO", "name": "섬네일" },
+                { "lang": "SC", "name": "缩略图" },
+                { "lang": "TC", "name": "縮圖" },
+				{ "lang": "DA","name" : "Miniature" },
+				{ "lang": "SV","name" : "Miniatyrbild" },
+				{ "lang": "EL","name" : "Μικρογραφία" },
+				{ "lang": "PL","name" : "Miniatura" },
+				{ "lang": "FI","name" : "Pikkukuva" },
+				{ "lang": "CS","name" : "Náhled" },
+				{ "lang": "TR","name" : "Küçük Resim" },
+				{ "lang": "HU","name" : "Bélyegkép" },
+				{ "lang": "RO","name" : "Miniatură" },
+				{ "lang": "NO","name" : "Miniatyrbilde" },
+				{ "lang": "AR","name" : "صورة مصغرة" },
+				{ "lang": "UK","name" : "Мініатюра" },
+				{ "lang": "HE","name" : "תמונה ממוזערת" },
+				{ "lang": "TH","name" : "รูปขนาดย่อ" },
+				{ "lang": "MS","name" : "Imej Kecil" },
+				{ "lang": "ID","name" : "Gambar Kecil" }
+            ],
+            "note": "",
+            "thumbnail": "IN.png",
+            "root": true,
+            "subids": [
+            ],
+            "newContents": false,
+            "objects": [
+                {
+                    "fileName": "IN_001.etdx",
+                    "paperSizeIds": [ "A4", "LT", "A5", "KG", "6G", "LB", "HG", "2L", "HV", "5A" ],
+                    "thumbnail": "IN_001.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "IN_002.etdx",
+                    "paperSizeIds": [ "A4", "LT", "A5", "KG", "6G", "LB", "HG", "2L", "HV", "5A" ],
+                    "thumbnail": "IN_002.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "IN_003.etdx",
+                    "paperSizeIds": [ "A4", "LT", "A5", "KG", "6G", "LB", "HG", "2L", "HV", "5A", "A3" ],
+                    "thumbnail": "IN_003.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "IN_004.etdx",
+                    "paperSizeIds": [ "A4", "LT", "A5", "6G", "2L", "HV", "5A", "A3" ],
+                    "thumbnail": "IN_004.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "IN_005.etdx",
+                    "paperSizeIds": [ "A4", "LT", "A5", "6G", "2L", "HV", "5A", "A3" ],
+                    "thumbnail": "IN_005.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "IN_006.etdx",
+                    "paperSizeIds": [ "A4", "LT", "A5", "KG", "6G", "LB", "HG", "2L", "HV", "5A" ],
+                    "thumbnail": "IN_006.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "IN_007.etdx",
+                    "paperSizeIds": [ "A4", "LT", "A5", "KG", "6G", "LB", "HG", "2L", "HV", "5A" ],
+                    "thumbnail": "IN_007.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "IN_008.etdx",
+                    "paperSizeIds": [ "A4", "LT", "A5", "6G", "2L", "HV", "5A", "A3" ],
+                    "thumbnail": "IN_008.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "IN_009.etdx",
+                    "paperSizeIds": [ "A4", "LT", "A5", "6G", "2L", "HV", "5A", "A3" ],
+                    "thumbnail": "IN_009.png",
+                    "newContents": false
+                }
+            ]
+        },
+        {
+            "id": "DL",
+            "function": "DL",
+            "names": [
+                { "lang": "EN", "name": "CD/DVD" },
+                { "lang": "JA", "name": "ディスクレーベル" },
+                { "lang": "DE", "name": "CD/DVD" },
+                { "lang": "FR", "name": "CD/DVD" },
+                { "lang": "ES", "name": "CD/DVD" },
+                { "lang": "IT", "name": "CD/DVD" },
+                { "lang": "PT", "name": "CD/DVD" },
+                { "lang": "NL", "name": "CD/DVD" },
+                { "lang": "RU", "name": "CD/DVD" },
+                { "lang": "KO", "name": "CD/DVD" },
+                { "lang": "SC", "name": "CD/DVD" },
+                { "lang": "TC", "name": "CD/DVD" },
+				{ "lang": "DA","name" : "CD/DVD" },
+				{ "lang": "SV","name" : "CD/DVD" },
+				{ "lang": "EL","name" : "CD/DVD" },
+				{ "lang": "PL","name" : "CD/DVD" },
+				{ "lang": "FI","name" : "CD/DVD" },
+				{ "lang": "CS","name" : "CD/DVD" },
+				{ "lang": "TR","name" : "CD/DVD" },
+				{ "lang": "HU","name" : "CD/DVD" },
+				{ "lang": "RO","name" : "CD/DVD" },
+				{ "lang": "NO","name" : "CD/DVD" },
+				{ "lang": "AR","name" : "CD/DVD" },
+				{ "lang": "UK","name" : "CD/DVD" },
+				{ "lang": "HE","name" : "CD/DVD" },
+				{ "lang": "TH","name" : "CD/DVD" },
+				{ "lang": "MS","name" : "CD/DVD" },
+				{ "lang": "ID","name" : "CD/DVD" }
+            ],
+            "note": "",
+            "thumbnail": "DL.png",
+            "root": true,
+            "subids": [ ],
+            "newContents": false,
+            "objects": [
+                {
+                    "fileName": "DL_001.etdx",
+                    "paperSizeIds": [ "DL" ],
+                    "thumbnail": "DL_001.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DL_002.etdx",
+                    "paperSizeIds": [ "DL" ],
+                    "thumbnail": "DL_002.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DL_003.etdx",
+                    "paperSizeIds": [ "DL" ],
+                    "thumbnail": "DL_003.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DL_004.etdx",
+                    "paperSizeIds": [ "DL" ],
+                    "thumbnail": "DL_004.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DL_005.etdx",
+                    "paperSizeIds": [ "DL" ],
+                    "thumbnail": "DL_005.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DL_006.etdx",
+                    "paperSizeIds": [ "DL" ],
+                    "thumbnail": "DL_006.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DL_007.etdx",
+                    "paperSizeIds": [ "DL" ],
+                    "thumbnail": "DL_007.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DL_008.etdx",
+                    "paperSizeIds": [ "DL" ],
+                    "thumbnail": "DL_008.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DL_009.etdx",
+                    "paperSizeIds": [ "DL" ],
+                    "thumbnail": "DL_009.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DL_010.etdx",
+                    "paperSizeIds": [ "DL" ],
+                    "thumbnail": "DL_010.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DL_011.etdx",
+                    "paperSizeIds": [ "DL" ],
+                    "thumbnail": "DL_011.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DL_012.etdx",
+                    "paperSizeIds": [ "DL" ],
+                    "thumbnail": "DL_012.png",
+                    "newContents": false
+                }
+            ]
+        },
+        {
+            "id": "DC",
+            "function": "DC",
+            "names": [
+                { "lang": "EN", "name": "Jewel Case" },
+                { "lang": "JA", "name": "ディスクケース" },
+                { "lang": "DE", "name": "Schmuckkästchen" },
+                { "lang": "FR", "name": "Boite à bijoux" },
+                { "lang": "ES", "name": "Joyero" },
+                { "lang": "IT", "name": "Custodia protettiva" },
+                { "lang": "PT", "name": "Caixa de disco" },
+                { "lang": "NL", "name": "Jewelcase" },
+                { "lang": "RU", "name": "Футляр для компакт-диска" },
+                { "lang": "KO", "name": "보석함" },
+                { "lang": "SC", "name": "珠宝盒" },
+                { "lang": "TC", "name": "光碟盒" },
+				{"lang" : "DA","name" : "CD-DVD-kassette" },
+				{"lang" : "SV","name" : "Juvelskrin" },
+				{"lang" : "EL","name" : "Κοσμηματοθήκη" },
+				{"lang" : "PL","name" : "Pudełko na płyty CD" },
+				{"lang" : "FI","name" : "Jewel Case -kotelo" },
+				{"lang" : "CS","name" : "Obal na disk" },
+				{"lang" : "TR","name" : "CD Kutusu" },
+				{"lang" : "HU","name" : "Ékszerdoboz" },
+				{"lang" : "RO","name" : "Carcasă" },
+				{"lang" : "NO","name" : "CD-boks" },
+				{"lang" : "AR","name" : "علبة أقراص" },
+				{"lang" : "UK","name" : "Футляр" },
+				{"lang" : "HE","name" : "אריזת דיסקים" },
+				{"lang" : "TH","name" : "Jewel Case" },
+				{"lang" : "MS","name" : "Bekas Barang Kemas" },
+				{"lang" : "ID","name" : "Wadah Permata" }
+            ],
+            "note": "",
+            "thumbnail": "DC.png",
+            "root": true,
+            "subids": [
+
+            ],
+            "newContents": false,
+            "objects": [
+                {
+                    "fileName": "DC_001.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_001.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_002.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_002.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_003.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_003.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_004.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_004.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_005.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_005.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_006.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_006.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_007.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_007.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_008.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_008.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_009.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_009.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_010.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_010.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_011.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_011.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_012.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_012.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_021.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_021.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_022.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_022.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "DC_023.etdx",
+                    "paperSizeIds": [ "JK" ],
+                    "thumbnail": "DC_023.png",
+                    "newContents": false
+                }
+            ]
+        },
+        {
+            "id": "LA_BN",
+            "function": "LA",
+            "names": [
+                { "lang": "EN", "name": "Documents" },
+                { "lang": "JA", "name": "文書" },
+                { "lang": "DE", "name": "Dokument" },
+                { "lang": "FR", "name": "Document" },
+                { "lang": "ES", "name": "documento" },
+                { "lang": "IT", "name": "documento" },
+                { "lang": "PT", "name": "Documento" },
+                { "lang": "NL", "name": "document" },
+                { "lang": "RU", "name": "документ" },
+                { "lang": "KO", "name": "문서" },
+                { "lang": "SC", "name": "文档" },
+                { "lang": "TC", "name": "文件" },
+				{ "lang" : "DA","name" : "dokument" },
+				{ "lang" : "SV","name" : "dokument" },
+				{ "lang" : "EL","name" : "Έγγραφο" },
+				{ "lang" : "PL","name" : "dokument" },
+				{ "lang" : "FI","name" : "Asiakirja" },
+				{ "lang" : "CS","name" : "dokument" },
+				{ "lang" : "TR","name" : "Belge" },
+				{ "lang" : "HU","name" : "Dokumentum" },
+				{ "lang" : "RO","name" : "Document" },
+				{ "lang" : "NO","name" : "dokument" },
+				{ "lang" : "AR","name" : "مستند" },
+				{ "lang" : "UK","name" : "Документ" },
+				{ "lang" : "HE","name" : "מסמך" },
+				{ "lang" : "TH","name" : "เอกสาร" },
+				{ "lang" : "MS","name" : "Dokumen" },
+				{ "lang" : "ID","name" : "Dokumen" }
+            ],
+            "note": "",
+            "thumbnail": "LA_BN.png",
+            "root": true,
+            "subids": [
+
+            ],
+            "newContents": false,
+            "objects": [
+                {
+                    "fileName": "LA_BN_001.etdx",
+                    "paperSizeIds": [ "A4", "A5", "5A" ],
+                    "thumbnail": "LA_BN_001.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_BN_002.etdx",
+                    "paperSizeIds": [ "A4", "A5", "5A" ],
+                    "thumbnail": "LA_BN_002.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_BN_003.etdx",
+                    "paperSizeIds": [ "A4", "A5", "5A" ],
+                    "thumbnail": "LA_BN_003.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_BN_004.etdx",
+                    "paperSizeIds": [ "A4", "A5", "5A" ],
+                    "thumbnail": "LA_BN_004.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_BN_005.etdx",
+                    "paperSizeIds": [ "A4", "A5", "5A" ],
+                    "thumbnail": "LA_BN_005.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_BN_006.etdx",
+                    "paperSizeIds": [ "A4", "A5", "5A" ],
+                    "thumbnail": "LA_BN_006.png",
+                    "newContents": false
+                }
+            ]
+        },
+        {
+            "id": "PA",
+            "function": "PA",
+            "countries": [ "JP" ],
+            "names": [
+                { "lang": "EN", "name": "Hagaki(Address Side)" },
+                { "lang": "JA", "name": "ハガキ (宛名面)" }
+            ],
+            "note": "",
+            "thumbnail": "PA.png",
+            "root": true,
+            "subids": [
+            ],
+            "newContents": false,
+            "objects": [
+                {
+                    "fileName": "PA_001.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "PA_001.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "PA_002.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "PA_002.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "PA_003.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "PA_003.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "PA_004.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "PA_004.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "PA_005.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "PA_005.png",
+                    "newContents": false
+                }
+            ]
+        },
+        {
+            "id": "LA_PC",
+            "function": "LA",
+            "countries": [ "JP" ],
+            "names": [
+                { "lang": "EN", "name": "Hagaki(Communication Side)" },
+                { "lang": "JA", "name": "ハガキ (通信面)" }
+            ],
+            "note": "",
+            "thumbnail": "LA_PC.png",
+            "root": true,
+            "subids": [
+            ],
+            "newContents": false,
+            "objects": [
+                {
+                    "fileName": "LA_PC_001.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_001.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PC_002.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_002.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PC_003.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_003.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PC_004.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_004.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PC_005.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_005.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PC_006.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_006.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PC_007.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_007.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PC_008.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_008.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PC_009.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_009.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PC_010.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_010.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PC_011.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_011.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PC_012.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_012.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_PC_013.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_013.png",
+                    "newContents": false
+                }
+                ,
+                {
+                    "fileName": "LA_PC_014.etdx",
+                    "paperSizeIds": [ "HG" ],
+                    "thumbnail": "LA_PC_014.png",
+                    "newContents": false
+                }
+            ]
+        },
+        {
+            "id": "LA_ID",
+            "function": "LA",
+            "countries": [ "JP" ],
+            "names": [
+                { "lang": "EN", "name": "ID Photo" },
+                { "lang": "JA", "name": "証明写真" }
+            ],
+            "note": "",
+            "thumbnail": "LA_ID.png",
+            "root": true,
+            "subids": [
+            ],
+            "newContents": false,
+            "objects": [
+                {
+                    "fileName": "LA_ID_001.etdx",
+                    "paperSizeIds": [ "LB" ],
+                    "thumbnail": "LA_ID_001.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_ID_002.etdx",
+                    "paperSizeIds": [ "LB" ],
+                    "thumbnail": "LA_ID_002.png",
+                    "newContents": false
+                },
+                {
+                    "fileName": "LA_ID_003.etdx",
+                    "paperSizeIds": [ "LB" ],
+                    "thumbnail": "LA_ID_003.png",
+                    "newContents": false
+                }
+            ]
+        }
+    ]
+}
